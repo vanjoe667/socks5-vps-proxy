@@ -50,4 +50,6 @@ docker-compose up -d
 - */10 * * * * /home/ubuntu/your-dir-name/check_proxy.sh (adjust accordingly)
 
 
-Feel free to use the snippetts in JS or Python in you application to test the Static returned
+Feel free to integrate the following JavaScript (Node.js) or Python code snippets into your application to test the returned static IP address.
+
+Happy Building 🚀
