@@ -29,7 +29,7 @@ This solution is perfect for developers or businesses looking for a stable and c
 ### 1. Clone this repo on your VPS
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/socks5-vps-proxy.git
+git clone https://github.com/vanjoe667/socks5-vps-proxy.git
 cd socks5-vps-proxy
 ```
 
